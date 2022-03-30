@@ -92,4 +92,7 @@ place of the object.
 
 <br><br><br>
 
+<b>and the I get a another window.addEventListener for get keyvlaue from keybord</b>
+<br><br>
+
 
