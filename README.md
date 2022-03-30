@@ -64,6 +64,8 @@ and also I call for moving.js javascript file to this project
 
         });
 
+**************************************************************
+
 in this moving.js file,<br>
 I using Document method named <b>querySelector,</b>
 
@@ -78,6 +80,8 @@ and then There is a window.addEventListener;
 <br>
 this is methord for attaches an event handler to the specified element.
 <br><br>
+**************************************************************
+
 in there, 
 
             circle.style.position = 'absolute';
@@ -90,7 +94,9 @@ circle.style.top = 0 <br><br>
 
 place of the object.
 
-<br><br><br>
+<br>
+**************************************************************
+
 
 <b>and the I get a another window.addEventListener for get keyvlaue from keybord</b>
 <br><br>
