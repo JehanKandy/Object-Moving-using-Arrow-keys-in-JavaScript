@@ -23,6 +23,8 @@ and also I call for moving.js javascript file to this project
 
 
 <b><u>in moving.js file</u></b>
+
+
        let circle = document.querySelector('.circle');
        let moveBy = 50;
 
