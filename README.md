@@ -125,3 +125,15 @@ Then,
                 
        set the object when left arrow key pressed <br>
        It also same for the all other 3 arrow keys 
+       
+        <br>
+        but, I use method named <b>parseInt</b><br>
+                
+                parseInt(circle.style.left)
+                
+        we can use this mothord for parses a value as a string and returns the first integer.<br><br>
+        
+     ******************************************************************************************************************************************************************************************   
+
+            
+        
