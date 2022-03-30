@@ -65,5 +65,31 @@ and also I call for moving.js javascript file to this project
         });
 
 in this moving.js file,<br>
-I using Document method named <b>querySelector</b>, 
+I using Document method named <b>querySelector,</b>
+
+so this <b>querySelector</b> we can use for returns the first element that matches a CSS selector.<br>
+<br>
+
+and secoundly, I create a variable with 50<br> 
+that comes for, moving space that we preased any arrow key <br>
+<br><br><br>
+
+and then There is a window.addEventListener; 
+<br>
+this is methord for attaches an event handler to the specified element.
+<br><br>
+in there, 
+
+            circle.style.position = 'absolute';
+            circle.style.left = 0;
+            circle.style.top = 0;
+
+circle style position becomes to absolute<br>
+circle.style.left = 0 and <br> 
+circle.style.top = 0 <br><br>
+
+place of the object.
+
+<br><br><br>
+
 
