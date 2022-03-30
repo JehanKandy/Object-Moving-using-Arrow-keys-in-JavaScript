@@ -64,3 +64,6 @@ and also I call for moving.js javascript file to this project
 
         });
 
+in this moving.js file,<br>
+I using Document method named <b>querySelector</b>, 
+
