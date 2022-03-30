@@ -5,6 +5,7 @@ Object Moving using Arrow keys in JavaScript
     <br>
 
 in index.html <br>
+
     <div class="circle"></div>
     <script src="moving.js"></script>
 
