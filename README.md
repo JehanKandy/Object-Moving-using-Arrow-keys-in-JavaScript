@@ -4,7 +4,7 @@ Object Moving using Arrow keys in JavaScript
     <b>Code Explane</b>
     <br>
 
-    in index.html <br>
+in index.html <br>
     <div class="circle"></div>
     <script src="moving.js"></script>
 
