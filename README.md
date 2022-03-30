@@ -96,9 +96,32 @@ place of the object.
 
 <br>
 **************************************************************
-
+<br>
 
 <b>and the I get a another window.addEventListener for get keyvlaue from keybord</b>
 <br><br>
+and the I using switch case for get value one by one
 
-
+            switch(x.key){
+                case "ArrowLeft":
+                    circle.style.left = parseInt(circle.style.left) - moveBy + 'px'
+                    break;
+                case "ArrowRight":
+                    circle.style.left = parseInt(circle.style.left) + moveBy + 'px'
+                    break;
+                case "ArrowUp":
+                    circle.style.top = parseInt(circle.style.top) - moveBy + 'px'
+                    break;
+                case "ArrowDown":
+                    circle.style.top = parseInt(circle.style.top) + moveBy + 'px'
+            }
+            
+in here firstly check the what key was pressed<br>
+Then,  
+   1. case I check left arrow key using "ArrowLeft"
+       and according to this 
+       
+                circle.style.left = parseInt(circle.style.left) - moveBy + 'px'
+                
+       set the object when left arrow key pressed <br>
+       It also same for the all other 3 arrow keys 
