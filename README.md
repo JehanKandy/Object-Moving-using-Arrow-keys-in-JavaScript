@@ -134,7 +134,7 @@ Then,
         we can use this mothord for parses a value as a string and returns the first integer.<br><br>
         ************************************************************************************************
         
-        Thank you for read this and <br> I hope you learn something using this code
+        Thank you for read this and <br> I hope you learn something using this code<br>
         Developer :: JEHANKANDY
             
         
